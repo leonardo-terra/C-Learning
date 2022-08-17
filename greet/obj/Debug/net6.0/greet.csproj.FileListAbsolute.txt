@@ -1,0 +1,5 @@
+/home/leonardoterra/Trybe/Aceleracao/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/leonardoterra/Trybe/Aceleracao/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardoterra/Trybe/Aceleracao/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/leonardoterra/Trybe/Aceleracao/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/leonardoterra/Trybe/Aceleracao/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
