@@ -1,0 +1,15 @@
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/leonardoterra/Trybe/Aceleracao/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
